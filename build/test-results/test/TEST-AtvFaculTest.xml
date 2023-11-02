@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AtvFaculTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-11-02T01:17:33" hostname="DESKTOP-4Q41G1I" time="0.57">
+  <properties/>
+  <testcase name="testPagamentoSuficienteSemDesconto" classname="AtvFaculTest" time="0.01"/>
+  <testcase name="testTrocoInsuficiente" classname="AtvFaculTest" time="0.0"/>
+  <testcase name="testPagamentoNegado" classname="AtvFaculTest" time="0.001"/>
+  <testcase name="testTrocoSuficiente" classname="AtvFaculTest" time="0.001"/>
+  <testcase name="testPremiacaoDescontoChamadaComMockito" classname="AtvFaculTest" time="0.557"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
