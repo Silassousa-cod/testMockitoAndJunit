@@ -42,25 +42,4 @@ public class AtvFacul {
         }
     }
 
-
-
-    static String novaFuncao1() {
-        return "Resultado Esperado";
-    }
-
-    static int novaFuncao2(int valor) {
-        return valor + 32;
-    }
-
-    static int novaFuncao3() {
-        return 123;
-    }
-
-    static String novaFuncao4(String texto) {
-        return texto;
-    }
-
-    static int novaFuncao5(int valor) {
-        return valor;
-    }
 }
